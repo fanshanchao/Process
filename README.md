@@ -1,8 +1,9 @@
 # Process
 
-此仓库用来记录自己的学习过程。
+> 此仓库用来记录自己的学习过程。
+>
 
-Believe that the process！
+**Believe that the process！**
 
 ## Java
 
@@ -14,6 +15,6 @@ Believe that the process！
 
 ### Leetcode刷题总结
 
-[Leetcode-栈](https://github.com/fanshanchao/Process/blob/master/Algorithms/Stack.md)
+* [Leetcode-栈](https://github.com/fanshanchao/Process/blob/master/Algorithms/Stack.md)
 
 
