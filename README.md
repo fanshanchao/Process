@@ -20,13 +20,13 @@
 ## 数据库
 
 * [Oracle总结](https://github.com/fanshanchao/Process/blob/master/DataBase/Oracle.md)
-* [MySQL](https://github.com/fanshanchao/Process/blob/master/java/DataBase/MySQL.md)
+* [MySQL](https://github.com/fanshanchao/Process/blob/master/DataBase/MySQL.md)
 
 ## 中间件
 
 ### 消息队列
 
 * [消息中间件之ActiveMQ](https://github.com/fanshanchao/Process/blob/master/java/MQ/ActiveMQ.md)
-* [Redis](https://github.com/fanshanchao/Process/blob/master/java/DataBase/Redis.md)
+* [Redis](https://github.com/fanshanchao/Process/blob/master/DataBase/Redis.md)
 
 
